@@ -1,0 +1,16 @@
+E:\Projects\LPOOI_GRUPO_08\Vistas\bin\Debug\Vistas.exe
+E:\Projects\LPOOI_GRUPO_08\Vistas\bin\Debug\Vistas.pdb
+E:\Projects\LPOOI_GRUPO_08\Vistas\bin\Debug\ClasesBase.dll
+E:\Projects\LPOOI_GRUPO_08\Vistas\bin\Debug\ClasesBase.pdb
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.exe
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.pdb
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.FrmTabCtrlInicio.resources
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.FrmTabCtrlProductos.resources
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.FrmTabCtrlClientes.resources
+E:\Projects\LPOOI_GRUPO_08\Vistas\obj\x86\Debug\Vistas.FrmTabCtrlObrasSociales.resources

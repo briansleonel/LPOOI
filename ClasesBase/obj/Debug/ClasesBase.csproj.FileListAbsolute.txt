@@ -1,0 +1,5 @@
+E:\Projects\LPOOI_GRUPO_08\ClasesBase\bin\Debug\ClasesBase.dll
+E:\Projects\LPOOI_GRUPO_08\ClasesBase\bin\Debug\ClasesBase.pdb
+E:\Projects\LPOOI_GRUPO_08\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\LPOOI_GRUPO_08\ClasesBase\obj\Debug\ClasesBase.dll
+E:\Projects\LPOOI_GRUPO_08\ClasesBase\obj\Debug\ClasesBase.pdb
